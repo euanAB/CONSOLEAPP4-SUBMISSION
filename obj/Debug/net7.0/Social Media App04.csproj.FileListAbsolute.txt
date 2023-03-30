@@ -1,0 +1,15 @@
+/Users/sbdlondon/Desktop/CONSOLE APP 4/Social Media App04/Social Media App04/obj/Debug/net7.0/Social Media App04.csproj.AssemblyReference.cache
+/Users/sbdlondon/Desktop/CONSOLE APP 4/Social Media App04/Social Media App04/obj/Debug/net7.0/Social Media App04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sbdlondon/Desktop/CONSOLE APP 4/Social Media App04/Social Media App04/obj/Debug/net7.0/Social Media App04.AssemblyInfoInputs.cache
+/Users/sbdlondon/Desktop/CONSOLE APP 4/Social Media App04/Social Media App04/obj/Debug/net7.0/Social Media App04.AssemblyInfo.cs
+/Users/sbdlondon/Desktop/CONSOLE APP 4/Social Media App04/Social Media App04/obj/Debug/net7.0/Social Media App04.csproj.CoreCompileInputs.cache
+/Users/sbdlondon/Desktop/CONSOLE APP 4/Social Media App04/Social Media App04/bin/Debug/net7.0/Social Media App04
+/Users/sbdlondon/Desktop/CONSOLE APP 4/Social Media App04/Social Media App04/bin/Debug/net7.0/Social Media App04.deps.json
+/Users/sbdlondon/Desktop/CONSOLE APP 4/Social Media App04/Social Media App04/bin/Debug/net7.0/Social Media App04.runtimeconfig.json
+/Users/sbdlondon/Desktop/CONSOLE APP 4/Social Media App04/Social Media App04/bin/Debug/net7.0/Social Media App04.dll
+/Users/sbdlondon/Desktop/CONSOLE APP 4/Social Media App04/Social Media App04/bin/Debug/net7.0/Social Media App04.pdb
+/Users/sbdlondon/Desktop/CONSOLE APP 4/Social Media App04/Social Media App04/obj/Debug/net7.0/Social Media App04.dll
+/Users/sbdlondon/Desktop/CONSOLE APP 4/Social Media App04/Social Media App04/obj/Debug/net7.0/refint/Social Media App04.dll
+/Users/sbdlondon/Desktop/CONSOLE APP 4/Social Media App04/Social Media App04/obj/Debug/net7.0/Social Media App04.pdb
+/Users/sbdlondon/Desktop/CONSOLE APP 4/Social Media App04/Social Media App04/obj/Debug/net7.0/Social Media App04.genruntimeconfig.cache
+/Users/sbdlondon/Desktop/CONSOLE APP 4/Social Media App04/Social Media App04/obj/Debug/net7.0/ref/Social Media App04.dll
